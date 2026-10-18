@@ -1,0 +1,11 @@
+name: FNaF: Legacy of Afton & Nightmares
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+api-version: "1.21"
+commands:
+  craftsuit:
+    description: Craft iconic Spring Bonnie and Fredbear springlock suits.
+    usage: /craftsuit <suitType>
+    permission: fnaf.craftsuit
+    permission-message: You do not have permission to craft suits.
